@@ -17,9 +17,8 @@
 
 😗bash requirements.sh
 
-<h1>After Thast Type</h1> 
+<h1>Type This For Run</h1> 
 bash Run.sh
-<h1>For Run</h1>
 
 <h1>For Removing This Banner Type</h1>
 bash remove.sh
