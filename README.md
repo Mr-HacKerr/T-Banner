@@ -5,9 +5,14 @@
 ![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif)
 <h1>Here Are Commands</h1>
 🥰pkg update
+
 😍pkg upgrade
+
 🤩pkg install git
+
 🔥git clone https://github.com/Mr-HacKerr/T-Banner.git
+
 😘cd T-Banner
+
 😗bash Run.sh
 <h5>Keep Support</h5>
