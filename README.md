@@ -15,5 +15,12 @@
 
 😘cd T-Banner
 
-😗bash Run.sh
+😗bash requirements.sh
+
+<h1>After Thast Type 
+bash Run.sh
+For Run</h1>
+
+<h1>For Removing This Banner Type</h1>
+bash remove.sh
 <h5>Keep Support</h5>
